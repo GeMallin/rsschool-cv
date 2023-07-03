@@ -42,10 +42,3 @@ console.log(updatedLol.name)
 ===
 ## English ##
 A1 (I have lessons with a tutor)
-
-
-
-
-
-
-
